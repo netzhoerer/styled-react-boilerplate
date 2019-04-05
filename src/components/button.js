@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import {hot} from 'react-hot-loader/root';
+import { hot } from 'react-hot-loader/root';
 
 // Button with ripple animation
 const Button = styled.button`
@@ -9,7 +9,7 @@ const Button = styled.button`
     padding: 12px 18px;
     font-size: 16px;
     cursor: pointer;
-    color: #fff;
+    color:red;
     background-color: #474747;
     box-shadow: 0 0 4px #616161;
     outline: none;
